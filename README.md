@@ -1,0 +1,1 @@
+Building an OS in Rust Following Philipp Oppermann's [Writing an OS in Rust](https://os.phil-opp.com/)
